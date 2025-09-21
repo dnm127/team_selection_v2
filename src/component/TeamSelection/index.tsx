@@ -27,7 +27,7 @@ const TeamSelection = () => {
     setFinalResult("");
     setCurrentHighlight(-1);
 
-    const totalDuration = 10000; // 10 seconds
+    const totalDuration = 5000; // 10 seconds
     let elapsed = 0;
     let currentSpeed = 50; // Start with 50ms intervals
 
